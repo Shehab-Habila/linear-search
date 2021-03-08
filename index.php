@@ -6,7 +6,7 @@ Linear search
 ----------------
 
 worst case:   steps = $valuesNum
-perfect case: steps = 1
+best case: steps = 1
 
 */
 
